@@ -20,7 +20,8 @@ For the day and night treks.
 4. Comfortable jeans or trousers  
 To cover your whole leg to protect from the camel's rough fur.
 
-5. 
+5. Water bottle  
+We've got the water, fill up at each camel!
 
 ---
 
@@ -28,7 +29,7 @@ To cover your whole leg to protect from the camel's rough fur.
 
 ![Group image of people riding camels in desert](./static/images/camel_ride.jpg)
 
-Hold on tight while going over the sand dunes!
+            Hold on tight while going over the sand dunes!
 
 ---
 
@@ -41,3 +42,4 @@ Sleep under the stars, enjoy the landscape...
 ![Outside shot image of tent lit by campfire](./static/images/tent_with_campfire.jpg)
 
 ![outside image of tent](./static/images/outside_tent.jpg)
+
