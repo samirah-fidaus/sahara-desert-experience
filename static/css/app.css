@@ -1,3 +1,12 @@
 /**
 * Your CSS here
 **/
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #D9A33D;
+    color: black;
+}
+
+h1, h2 {
+    font-family: 'Roboto Slab', serif;
+}
