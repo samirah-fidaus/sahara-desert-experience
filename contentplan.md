@@ -21,7 +21,7 @@ For the day and night treks.
 To cover your whole leg to protect from the camel's rough fur.
 
 5. Water bottle  
-We've got the water, fill up at each camel!
+We've got the water, fill up at each camel stop!
 
 ---
 
@@ -29,13 +29,15 @@ We've got the water, fill up at each camel!
 
 ![Group image of people riding camels in desert](./static/images/camel_ride.jpg)
 
-            Hold on tight while going over the sand dunes!
+             Hold on tight while going over the sand dunes!
+
+
 
 ---
 
 ## **Glamp in the desert tents!**
 
-Sleep under the stars, enjoy the landscape...
+             Sleep under the stars, enjoy the landscape...
 
 ![Inside shot of tent lit by lanterns in the evening](./static/images/inside_of_tent.jpg)
 
@@ -43,3 +45,7 @@ Sleep under the stars, enjoy the landscape...
 
 ![outside image of tent](./static/images/outside_tent.jpg)
 
+---
+## **Reviews**
+
+'As sunset approached, our group climbed to the top of a sand dune which was situated behind our camp. Everything was perfect. There was virtually no sound, and I began to take the absurdity of just how far out I was, the light was perfect. We settled down for a lovely meal in the evening by the fire. Although it got quite cold by the night, there was ample bedding available, and the warmth from the fire was more than adequate to keep comftorble.' - Liakat's review of her sahara holiday
