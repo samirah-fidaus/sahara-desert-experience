@@ -10,3 +10,13 @@ body {
 h1, h2 {
     font-family: 'Roboto Slab', serif;
 }
+
+section {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.review{
+    padding-left: 2%;
+    padding-right: 2%;
+}
