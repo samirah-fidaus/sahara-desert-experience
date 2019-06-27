@@ -2,13 +2,14 @@
 * Your CSS here
 **/
 body {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     background-color: #D9A33D;
     color: black;
 }
 
 h1, h2 {
     font-family: 'Roboto Slab', serif;
+    text-align: center;
 }
 
 section {
@@ -19,5 +20,5 @@ section {
 .review{
     padding-left: 2%;
     padding-right: 2%;
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
