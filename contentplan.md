@@ -46,6 +46,8 @@ We've got the water, fill up at each camel stop!
 ![outside image of tent](./static/images/outside_tent.jpg)
 
 ---
-## **Reviews**
+## **Not yet tempted? Read Liakat's Review...**
 
-'As sunset approached, our group climbed to the top of a sand dune which was situated behind our camp. Everything was perfect. There was virtually no sound, and I began to take the absurdity of just how far out I was, the light was perfect. We settled down for a lovely meal in the evening by the fire. Although it got quite cold by the night, there was ample bedding available, and the warmth from the fire was more than adequate to keep comftorble.' - Liakat's review of her sahara holiday
+![image of liakat in sahara desert](./static/images/liakat.jpg)
+
+'As sunset approached, our group climbed to the top of a sand dune which was situated behind our camp. Everything was perfect. There was virtually no sound, and I began to take the absurdity of just how far out I was, the light was perfect. We settled down for a lovely meal in the evening by the fire. Although it got quite cold by the night, there was ample bedding available, and the warmth from the fire was more than adequate to keep comftorble.' - Liakat after her Sahara holiday
