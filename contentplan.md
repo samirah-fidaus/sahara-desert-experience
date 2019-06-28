@@ -8,6 +8,8 @@ The dunes and plains of the Sahara strecth into the distance for an eternity, re
 
 ## **What to bring... check your checklist!**
 
+![bag in desert](./static/images/bag.jpg)
+
 1.  A windbreaker or light jacket  
 Although there is an average temperature of over 40 degrees celcius, this will be needed to survive the cooler nights
 
@@ -32,6 +34,14 @@ We've got the water, fill up at each camel stop!
              Hold on tight while going over the sand dunes!
 
 
+---
+## **When to go to the Sahara Desert**
+
+![Image of desert at summer time](./static/images/sunnydesert.webp)
+
+The summer is one to avoid - Between June and September the sun is simply too hot for it to be enjoyable.  
+Winter is manageable if you werap up warm; however, the  best time to visit the Sahara Desert is definitely in spring or autumn.  
+By October the searing heat of the summer has passed awaybut it's still pleasant after dark. Similar temperaturesare found in spring, but between February and April, sandstorms are common.  
 
 ---
 
@@ -43,8 +53,8 @@ We've got the water, fill up at each camel stop!
 
 ![Outside shot image of tent lit by campfire](./static/images/tent_with_campfire.jpg)
 
-![outside image of tent](./static/images/outside_tent.jpg)
-
+![outside image of tent](./static/images/outside_tent.jpg)  
+The essential Sahara activity is to stay overnight in a tenter Berber camp. Accommodation ranges from the luxurious to the simple but comfortable to make it feel more authentic. Blankets are provided but you can bring your own sleeping bag. You will be accompanied by traditinal music and dancing.
 ---
 ## **Not yet tempted? Read Liakat's Review...**
 
