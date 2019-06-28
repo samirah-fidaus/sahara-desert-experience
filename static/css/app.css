@@ -23,3 +23,18 @@ section {
     padding-right: 2%;
     font-family: 'Montserrat', sans-serif;
 }
+
+.gallery{
+    display: flex;
+}
+
+.gallery img{
+    flex-shrink: 0;
+    margin-right: 10px;
+
+}
+
+.gallery-window{
+    overflow: scroll;
+    width: 100%;
+}
