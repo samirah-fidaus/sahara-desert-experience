@@ -38,3 +38,9 @@ section {
     overflow: scroll;
     width: 100%;
 }
+
+.bag-image{
+    width: 275px;
+    margin: auto;
+    display: block;
+}
